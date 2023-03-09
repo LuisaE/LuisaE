@@ -6,3 +6,6 @@ I am a senior CS student @ Carleton College
 
 - [LinkedIn](https://www.linkedin.com/in/luisa-escosteguy/)
 - 📫 Email me at escosteguyl[at]carleton.edu
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisae&count_private=true&theme=light)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisae&theme=light)
+:-------------------------:|:-------------------------:
